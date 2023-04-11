@@ -1,0 +1,8 @@
+com\the\sudoku\UserInterface.class
+com\the\sudoku\Sudoku.class
+com\the\sudoku\Board.class
+com\the\sudoku\GridSquare$1.class
+com\the\sudoku\PuzzleGenerator.class
+com\the\sudoku\GridSquare.class
+com\the\sudoku\UserInterface$1.class
+com\the\sudoku\Grid.class
